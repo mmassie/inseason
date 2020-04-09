@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h3>Know what is available locally and in season</h3>
+    <p>Know what is available locally and in season</p>
 
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
