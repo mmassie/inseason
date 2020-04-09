@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Popsicle Shop`,
+    title: `InSeason`,
     description: `An simple site to find what is local and in season based off your location`,
     author: `@mmassie`,
   },
