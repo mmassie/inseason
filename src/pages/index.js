@@ -9,6 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <p>Know what is available locally and in season</p>
+    
+    <button>Get location</button>
 
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
