@@ -35,11 +35,13 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-        style={{
+        <div 
+            style={{
           margin: `0 auto`,
           maxWidth: 960,
           padding: `10 1.0875rem 1.45rem`,
         }}
+        >
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
