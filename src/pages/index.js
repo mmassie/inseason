@@ -16,12 +16,7 @@ const IndexPage = () => (
     
     <button>Get location</button>
     </div>
-
-
-  
-    <div>
-    <Link to="/page-2/">About</Link>
-    </div>
+    
   </Layout>
 )
 
