@@ -1,4 +1,5 @@
 # Inseason App
+A simple food app that shows you what is in season and locally grown
 
 ## Event process
 
@@ -9,19 +10,7 @@
 4. Zone + season block → compare to food DB
 5. Return results
 
-## Design process
 
-1. Build in Sketch
-2. Prototype interactions
-  1. Research Framer as alternative
-3. Export to Vanilla JS
-4. Export to React Native
-
-## Feature list
-
-1. Simple results on time and location
-2. Search
-3. FDA alerts
 
 ## Research
 [USDA Heariness Zone](http://planthardiness.ars.usda.gov/PHZMWeb/)
